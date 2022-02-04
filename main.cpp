@@ -1,6 +1,21 @@
-//
-// Created by aaron on 2/2/2022.
-//
+//Devoloper: Aaron Milner
+//Start Date: 2/2/2022.
 
-//Plans: Either to have a game where pieces are shown and player has to remember where they are and select those tiles
-//       or a game where they have to continually follow the order of pieces and it increments by 1 more each level
+//Plans: A game where they have to continually follow the order of pieces and it increments by 1 more each level
+
+//Reminders: Use of structs, consts, inheritance, classes, functions, pointers
+
+//Goals:
+
+//*********************************************************************************************************************
+
+#include <iostream>
+
+using namespace std;
+
+int main(){
+
+
+
+  return 0;
+}
