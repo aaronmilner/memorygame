@@ -4,4 +4,7 @@ project(memorygame)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(memorygame
-        main.cpp)
+        main.cpp
+        game.h
+        game.cpp
+        )
