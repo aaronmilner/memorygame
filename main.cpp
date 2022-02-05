@@ -5,15 +5,19 @@
 
 //Reminders: Use of structs, consts, inheritance, classes, functions, pointers
 
-//Goals:
+//Goals: Save previous game boards,
 
 //*********************************************************************************************************************
 
 #include <iostream>
+#include "game.h"
+#include <ctime>
 
 using namespace std;
 
 int main(){
+  srand(time(NULL));
+  game start;
 
 
 
